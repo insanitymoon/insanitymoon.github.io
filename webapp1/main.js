@@ -23,7 +23,7 @@ var del = function () {
 	op = "";
 	opb = 0;
 	previousEl = 0;
-	panel.value = 0;
+	panel.value = "";
 }
 
 function add() {
